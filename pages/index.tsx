@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import React from 'react';
-import styles from '../styles/index.module.css';
+import styles from '../styles/index.module.scss';
 
 export default function Home() {
   return (
